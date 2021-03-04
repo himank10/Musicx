@@ -11,3 +11,14 @@
 | <img src="https://github.com/himank10/Musicx/blob/master/screenshots/Screenshot_20210304-164242_Techno%20Music.jpg?raw=true" width="200"/> | <img src="https://github.com/himank10/Musicx/blob/master/screenshots/Screenshot_20210304-164815_Techno%20Music.jpg?raw=true" width="200"/> |
 |:---:|:---:|
 | dark | black|
+
+### Player screen
+| <img src="https://github.com/himank10/Musicx/blob/master/screenshots/Screenshot_20210304-164815_Techno%20Music.jpg?raw=true" width="200"/>| <img src="https://github.com/himank10/Musicx/blob/master/screenshots/Screenshot_20210225-220641_Techno%20Music.jpg?raw=true" width="200"/>|
+|:---:|:---:|
+| Songs | Artists |
+
+### Now playing themes
+
+|   <img src="https://github.com/himank10/Musicx/blob/master/screenshots/Screenshot_20210303-142632_Techno%20Music.jpg?raw=true" width="200"/>|     <img src="https://github.com/himank10/Musicx/blob/master/screenshots/Screenshot_20210303-143550_Techno%20Music.jpg?raw=true" width="200"/>	|
+|:-----:	|:-----:	|
+| Blur | Peak 	|
