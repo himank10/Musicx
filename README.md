@@ -61,5 +61,5 @@ possible.
 If you have any feature suggestions, please create an issue with detailed information.
 
 
->Please note: Retro Music Player is an offline music player app. It
+>Please note: Techno Music Player is an offline music player app. It
 >doesn't support music downloading or online music streaming.
