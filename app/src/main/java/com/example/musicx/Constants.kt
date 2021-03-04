@@ -13,7 +13,7 @@ object Constants {
     //const val TELEGRAM_CHANGE_LOG =""
     const val USER_PROFILE = "profile.jpg"
     const val USER_BANNER = "banner.jpg"
-    const val APP_INSTAGRAM_LINK = ""
+    //const val APP_INSTAGRAM_LINK = ""
     //const val APP_TELEGRAM_LINK = ""
     //const val APP_TWITTER_LINK = ""
     //const val FAQ_LINK = ""
