@@ -8,8 +8,8 @@ import android.provider.MediaStore
 object Constants {
     const val PRO_VERSION_PRODUCT_ID = "pro_version"
     const val RATE_ON_GOOGLE_PLAY = ""
-    const val TRANSLATE = ""
-    const val GITHUB_PROJECT = ""
+    const val TRANSLATE = "https://github.com/himank10/Musicx"
+    const val GITHUB_PROJECT = "https://github.com/himank10/Musicx"
     //const val TELEGRAM_CHANGE_LOG =""
     const val USER_PROFILE = "profile.jpg"
     const val USER_BANNER = "banner.jpg"
