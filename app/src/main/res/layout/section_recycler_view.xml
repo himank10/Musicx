@@ -28,7 +28,7 @@
             android:textStyle="bold"
             tools:text="@tools:sample/full_names" />
 
-        <com.example.musicx.views.AccentIcon
+        <code.example.musicx.views.AccentIcon
             android:id="@+id/arrow"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"

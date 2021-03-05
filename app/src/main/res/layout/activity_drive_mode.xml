@@ -8,7 +8,7 @@
     android:orientation="vertical">
 
 
-    <com.example.musicx.views.StatusBarView
+    <code.example.musicx.views.StatusBarView
         android:id="@+id/status_bar"
         android:layout_width="match_parent"
         android:layout_height="0dp"

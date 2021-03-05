@@ -37,7 +37,7 @@
         tools:maxLines="@string/grid_size_1"
         tools:text="@tools:sample/lorem" />
 
-    <com.example.musicx.views.BaselineGridTextView
+    <code.example.musicx.views.BaselineGridTextView
         android:id="@android:id/summary"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
@@ -60,7 +60,7 @@
         android:orientation="vertical"
         app:layout_constraintGuide_begin="@dimen/list_pref_guideline_begin" />
 
-    <com.example.appthemehelper.common.views.ATESwitch
+    <code.example.appthemehelper.common.views.ATESwitch
         android:id="@android:id/checkbox"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"

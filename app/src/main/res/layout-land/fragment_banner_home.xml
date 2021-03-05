@@ -88,7 +88,7 @@
                         android:background="@drawable/shadow_up"
                         app:layout_constraintBottom_toBottomOf="parent" />
 
-                    <com.example.musicx.views.RetroShapeableImageView
+                    <code.example.musicx.views.RetroShapeableImageView
                         android:id="@+id/userImage"
                         android:layout_width="42dp"
                         android:layout_height="42dp"

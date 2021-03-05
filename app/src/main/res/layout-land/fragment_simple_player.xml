@@ -39,17 +39,17 @@
             android:layout_height="match_parent"
             android:orientation="horizontal">
 
-            <com.example.musicx.views.HeightFitSquareLayout
+            <code.example.musicx.views.HeightFitSquareLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent">
 
                 <fragment
                     android:id="@+id/playerAlbumCoverFragment"
-                    android:name="com.example.musicx.fragments.player.PlayerAlbumCoverFragment"
+                    android:name="code.example.musicx.fragments.player.PlayerAlbumCoverFragment"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     tools:layout="@layout/fragment_album_cover" />
-            </com.example.musicx.views.HeightFitSquareLayout>
+            </code.example.musicx.views.HeightFitSquareLayout>
 
 
             <LinearLayout
@@ -60,7 +60,7 @@
 
                 <fragment
                     android:id="@+id/playbackControlsFragment"
-                    android:name="com.example.musicx.fragments.player.simple.SimplePlaybackControlsFragment"
+                    android:name="code.example.musicx.fragments.player.simple.SimplePlaybackControlsFragment"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:layout_weight="1"

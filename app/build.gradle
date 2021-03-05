@@ -15,7 +15,7 @@ android {
         renderscriptTargetApi 29 //must match target sdk and build tools
         vectorDrawables.useSupportLibrary = true
 
-        applicationId 'com.example.MusicX'
+        applicationId 'code.example.MusicX'
         versionCode 10500
         versionName '1.0.000' + "_" + getDate()
 

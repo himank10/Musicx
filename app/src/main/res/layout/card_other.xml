@@ -12,7 +12,7 @@
         android:layout_height="match_parent"
         android:orientation="vertical">
 
-        <com.example.appthemehelper.common.views.ATEAccentTextView
+        <code.example.appthemehelper.common.views.ATEAccentTextView
             android:id="@+id/sb4"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -30,7 +30,7 @@
             app:layout_constraintTop_toTopOf="parent" />
 
 
-        <com.example.musicx.views.ListItemView
+        <code.example.musicx.views.ListItemView
             android:id="@+id/openSource"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
@@ -44,7 +44,7 @@
             app:listItemTitle="@string/pref_title_open_source_licences" />
 
 
-        <com.example.musicx.views.ListItemView
+        <code.example.musicx.views.ListItemView
             android:id="@+id/version"
             android:layout_width="0dp"
             android:layout_height="wrap_content"

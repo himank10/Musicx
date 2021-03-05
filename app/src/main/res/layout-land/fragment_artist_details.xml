@@ -77,7 +77,7 @@
                 android:orientation="vertical"
                 android:padding="16dp">
 
-                <com.example.musicx.views.BaselineGridTextView
+                <code.example.musicx.views.BaselineGridTextView
                     android:id="@+id/artistTitle"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
@@ -88,7 +88,7 @@
                     tools:ignore="MissingPrefix"
                     tools:text="Title" />
 
-                <com.example.musicx.views.BaselineGridTextView
+                <code.example.musicx.views.BaselineGridTextView
                     android:id="@+id/text"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"

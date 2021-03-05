@@ -18,7 +18,12 @@
     <color name="md_deep_purple_800">#4527A0</color>
     <color name="md_deep_purple_500">#673AB7</color>
     <color name="md_deep_purple_A200">#7C4DFF</color>
-
+    <color name="Orange">#FFA500</color>
+    <color name="OrangeRed">#FF4500</color>
+    <color name="coral">#FF7F50</color>
+    <color name="tiger">#FC6A03</color>
+    <color name="fire">#DD571C</color>
+    <color name="orange1">#F68C1F</color>
 
     <color name="md_blue_500">#2196F3</color>
     <color name="md_blue_A400">#2979FF</color>

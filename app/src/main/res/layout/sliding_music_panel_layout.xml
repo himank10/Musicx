@@ -26,7 +26,7 @@
         android:layout_height="wrap_content"
         app:behavior_hideable="true"
         app:behavior_peekHeight="0dp"
-        app:layout_behavior="com.example.musicx.RetroBottomSheetBehavior">
+        app:layout_behavior="code.example.musicx.RetroBottomSheetBehavior">
 
         <FrameLayout
             android:id="@+id/playerFragmentContainer"
@@ -35,14 +35,14 @@
 
         <fragment
             android:id="@+id/miniPlayerFragment"
-            android:name="com.example.musicx.fragments.MiniPlayerFragment"
+            android:name="code.example.musicx.fragments.MiniPlayerFragment"
             android:layout_width="match_parent"
             android:layout_height="48dp"
             tools:layout="@layout/fragment_mini_player" />
 
     </FrameLayout>
 
-    <com.example.musicx.views.BottomNavigationBarTinted
+    <code.example.musicx.views.BottomNavigationBarTinted
         android:id="@+id/bottomNavigationView"
         android:layout_width="match_parent"
         android:layout_height="56dp"

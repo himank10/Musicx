@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.example.musicx"
+    package="code.example.musicx"
     android:installLocation="auto">
 
     <uses-permission android:name="android.permission.BLUETOOTH" />
@@ -127,11 +127,11 @@
             android:theme="@android:style/Theme.Translucent.NoTitleBar" />
 
         <activity
-            android:name=".activities.saf.SAFGuideActivity"
+            android:name="code.example.musicx.activities.saf.SAFGuideActivity"
             android:theme="@style/Theme.Intro" />
 
         <provider
-            android:name=".misc.GenericFileProvider"
+            android:name="code.example.musicx.misc.GenericFileProvider"
             android:authorities="${applicationId}.provider"
             android:exported="false"
             android:grantUriPermissions="true">
@@ -227,7 +227,7 @@
         </receiver>
 
         <service
-            android:name=".service.MusicService"
+            android:name="code.example.musicx.service.MusicService"
             android:enabled="true"
             android:exported="true"
             android:label="@string/app_name"
@@ -246,7 +246,7 @@
             android:value="true" />
 
         <meta-data
-            android:name="com.example.musicx.glide.RetroMusicGlideModule"
+            android:name="code.example.musicx.glide.RetroMusicGlideModule"
             android:value="GlideModule" />
 
         <meta-data
@@ -254,7 +254,7 @@
             android:value="GlideModule" />
 
         <meta-data
-            android:name="com.example.vending.splits.required"
+            android:name="code.example.vending.splits.required"
             android:value="true" />
     </application>
 </manifest>

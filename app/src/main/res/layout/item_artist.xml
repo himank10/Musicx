@@ -8,7 +8,7 @@
     android:orientation="vertical"
     android:padding="4dp">
 
-    <com.example.musicx.views.RetroShapeableImageView
+    <code.example.musicx.views.RetroShapeableImageView
         android:id="@+id/image"
         android:layout_width="144dp"
         android:layout_height="144dp"

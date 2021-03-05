@@ -65,7 +65,7 @@
 
             </com.google.android.material.card.MaterialCardView>
 
-            <com.example.musicx.views.BaselineGridTextView
+            <code.example.musicx.views.BaselineGridTextView
                 android:id="@+id/artistTitle"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
@@ -82,7 +82,7 @@
                 tools:ignore="MissingPrefix"
                 tools:text="@tools:sample/full_names" />
 
-            <com.example.musicx.views.BaselineGridTextView
+            <code.example.musicx.views.BaselineGridTextView
                 android:id="@+id/text"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"

@@ -10,7 +10,7 @@
 
      <fragment
          android:id="@+id/playerAlbumCoverFragment"
-         android:name="com.example.musicx.fragments.player.PlayerAlbumCoverFragment"
+         android:name="code.example.musicx.fragments.player.PlayerAlbumCoverFragment"
          android:layout_width="0dp"
          android:layout_height="0dp"
          app:layout_constraintBottom_toBottomOf="parent"
@@ -33,7 +33,7 @@
 
     <fragment
         android:id="@+id/playbackControlsFragment"
-        android:name="com.example.musicx.fragments.player.full.FullPlaybackControlsFragment"
+        android:name="code.example.musicx.fragments.player.full.FullPlaybackControlsFragment"
         android:layout_width="0dp"
         android:layout_height="0dp"
         android:layout_gravity="bottom"
@@ -118,7 +118,7 @@
                 app:layout_constraintTop_toBottomOf="@+id/nextSongLabel"
                 tools:text="@tools:sample/lorem/random" />
 
-            <com.example.musicx.views.CircularImageView
+            <code.example.musicx.views.CircularImageView
                 android:id="@+id/artistImage"
                 android:layout_width="36dp"
                 android:layout_height="36dp"

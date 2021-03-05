@@ -11,7 +11,7 @@
         android:layout_height="wrap_content"
         android:orientation="vertical">
 
-        <com.example.appthemehelper.common.views.ATEAccentTextView
+        <code.example.appthemehelper.common.views.ATEAccentTextView
             android:id="@+id/sb2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -28,7 +28,7 @@
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent" />
 
-        <com.example.musicx.views.ListItemView
+        <code.example.musicx.views.ListItemView
             android:id="@+id/appGithub"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
@@ -41,7 +41,7 @@
             app:listItemSummary="@string/git_hub_summary"
             app:listItemTitle="@string/git_hub" />
 
-        <com.example.musicx.views.ListItemView
+        <code.example.musicx.views.ListItemView
             android:id="@+id/appTranslation"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
@@ -55,7 +55,7 @@
             app:listItemTitle="@string/translate" />
 
 
-        <com.example.musicx.views.ListItemView
+        <code.example.musicx.views.ListItemView
             android:id="@+id/appRate"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
@@ -68,7 +68,7 @@
             app:listItemSummary="@string/rate_on_google_play_summary"
             app:listItemTitle="@string/rate_app" />
 
-        <com.example.musicx.views.ListItemView
+        <code.example.musicx.views.ListItemView
             android:id="@+id/donateLink"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
@@ -82,7 +82,7 @@
             app:listItemTitle="@string/donate" />
 
 
-        <com.example.musicx.views.ListItemView
+        <code.example.musicx.views.ListItemView
             android:id="@+id/bugReportLink"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
@@ -95,7 +95,7 @@
             app:listItemSummary="@string/bug_report_summary"
             app:listItemTitle="@string/report_bug" />
 
-        <com.example.musicx.views.ListItemView
+        <code.example.musicx.views.ListItemView
             android:id="@+id/appShare"
             android:layout_width="0dp"
             android:layout_height="wrap_content"

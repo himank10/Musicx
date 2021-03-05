@@ -38,7 +38,7 @@
         tools:maxLines="@string/grid_size_1"
         tools:text="@tools:sample/lorem/random" />
 
-    <com.example.musicx.views.BaselineGridTextView
+    <code.example.musicx.views.BaselineGridTextView
         android:id="@+id/summary"
         android:layout_width="0dp"
         android:layout_height="wrap_content"

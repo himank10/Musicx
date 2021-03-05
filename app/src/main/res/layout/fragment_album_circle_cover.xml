@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <com.example.musicx.views.CircularImageView
+    <code.example.musicx.views.CircularImageView
         android:id="@+id/player_image"
         android:layout_width="0dp"
         android:layout_height="0dp"

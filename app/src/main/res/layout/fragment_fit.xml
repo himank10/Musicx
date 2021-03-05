@@ -24,7 +24,7 @@
 
              <fragment
                  android:id="@+id/playerAlbumCoverFragment"
-                 android:name="com.example.musicx.fragments.player.PlayerAlbumCoverFragment"
+                 android:name="code.example.musicx.fragments.player.PlayerAlbumCoverFragment"
                  android:layout_width="match_parent"
                  android:layout_height="match_parent"
                  tools:layout="@layout/fragment_album_full_cover" />
@@ -39,7 +39,7 @@
 
             <fragment
                 android:id="@+id/playbackControlsFragment"
-                android:name="com.example.musicx.fragments.player.fit.FitPlaybackControlsFragment"
+                android:name="code.example.musicx.fragments.player.fit.FitPlaybackControlsFragment"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 tools:layout="@layout/fragment_gradient_controls" />

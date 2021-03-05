@@ -2,7 +2,7 @@
 <androidx.preference.PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
 
-    <com.example.appthemehelper.common.prefs.supportv7.ATESwitchPreference
+    <code.example.appthemehelper.common.prefs.supportv7.ATESwitchPreference
         android:defaultValue="true"
         android:key="audio_ducking"
         android:layout="@layout/list_item_view_switch"
@@ -10,20 +10,20 @@
         android:title="@string/pref_title_audio_ducking"
         app:icon="@drawable/ic_volume_down" />
 
-    <com.example.appthemehelper.common.prefs.supportv7.ATESwitchPreference
+    <code.example.appthemehelper.common.prefs.supportv7.ATESwitchPreference
         android:defaultValue="false"
         android:key="gapless_playback"
         android:layout="@layout/list_item_view_switch"
         android:summary="@string/pref_summary_gapless_playback"
         android:title="@string/pref_title_gapless_playback" />
 
-    <com.example.appthemehelper.common.prefs.supportv7.ATEPreference
+    <code.example.appthemehelper.common.prefs.supportv7.ATEPreference
         android:key="equalizer"
         android:layout="@layout/list_item_view_no_title"
         android:title="@string/equalizer"
         app:icon="@drawable/ic_equalizer" />
 
-    <com.example.appthemehelper.common.prefs.supportv7.ATESwitchPreference
+    <code.example.appthemehelper.common.prefs.supportv7.ATESwitchPreference
         android:defaultValue="false"
         android:key="toggle_headset"
         android:layout="@layout/list_item_view_switch"
@@ -31,7 +31,7 @@
         android:title="@string/pref_title_toggle_toggle_headset"
         app:icon="@drawable/ic_play_arrow_white_32dp" />
 
-    <com.example.appthemehelper.common.prefs.supportv7.ATESwitchPreference
+    <code.example.appthemehelper.common.prefs.supportv7.ATESwitchPreference
         android:defaultValue="false"
         android:key="toggle_shuffle"
         android:layout="@layout/list_item_view_switch"
@@ -39,7 +39,7 @@
         android:title="@string/pref_title_toggle_toggle_shuffle"
         app:icon="@drawable/ic_shuffle" />
 
-    <com.example.appthemehelper.common.prefs.supportv7.ATESwitchPreference
+    <code.example.appthemehelper.common.prefs.supportv7.ATESwitchPreference
         android:defaultValue="false"
         android:key="bluetooth_playback"
         android:layout="@layout/list_item_view_switch"
