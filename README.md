@@ -2,7 +2,7 @@
 
 [![Generic badge](https://img.shields.io/badge/Platform-Android-green.svg)](https://github.com/himank10/Musicx)
 [![Generic badge](https://img.shields.io/badge/minSdkVersion-21-green.svg)](https://github.com/himank10/Musicx)
-[![Generic badge](https://img.shields.io/badge/Download-Google_Play-green.svg)]()
+[![Generic badge](https://img.shields.io/badge/Download-Google_Play-green.svg)](https://play.google.com/store/apps/details?id=code.example.MusicX)
 
 ## 🆕 Material Design music player 
 
